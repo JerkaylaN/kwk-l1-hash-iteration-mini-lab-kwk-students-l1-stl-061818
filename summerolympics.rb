@@ -5,6 +5,8 @@ summer_olympics = {
   "London" => 2012
 }
 
-place= Atlant
-year =
+place= "Atlanta"
+year = 1996
+
+summer_olympics[place] =[year]
 puts summer_olympics
