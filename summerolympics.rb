@@ -11,7 +11,7 @@ year = 1996
 summer_olympics[place] =year
 #puts summer_olympics
 
-summer_olympics.each do |place,year|
-  puts "The #{place} summer olympics took place in #{year}"
+summer_olympics.each do |place|
+  #puts "The #{place} summer olympics took place in #{year}"
   
 end
