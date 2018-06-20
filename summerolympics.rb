@@ -5,6 +5,6 @@ summer_olympics = {
   "London" => 2012
 }
 
+place= Atlant
+year =
 puts summer_olympics
-
-summer_olympics.insert("Atlanta")
