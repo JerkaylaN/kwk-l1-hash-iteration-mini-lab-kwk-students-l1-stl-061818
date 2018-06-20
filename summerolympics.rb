@@ -1,5 +1,6 @@
-summer_olympics = { "Sydney" => 200
-  
+summer_olympics = { 
+  "Sydney" => 2000
+  "Athens" => 
   
   
   
