@@ -7,4 +7,4 @@ summer_olympics = {
 
 puts summer_olympics
 
-summer_olympics.insert
+summer_olympics.insert()
