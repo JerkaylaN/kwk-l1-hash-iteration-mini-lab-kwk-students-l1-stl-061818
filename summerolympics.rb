@@ -12,6 +12,7 @@ summer_olympics[place] =year
 #puts summer_olympics
 
 summer_olympics.each do |place|
-  puts summer_olympics
+  puts summer_olympics.keys
+  
   
 end
