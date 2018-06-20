@@ -5,4 +5,4 @@ summer_olympics = {
   "London" => 2012
 }
 
-summer_olympics
+summer_olympics["Atlanta"]
