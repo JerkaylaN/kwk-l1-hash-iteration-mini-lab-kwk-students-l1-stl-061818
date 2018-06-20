@@ -5,4 +5,4 @@ summer_olympics = {
   "London" => 2012
 }
 
-summer_olympics["Atlanta"]
+summer_olympics["Atlanta"] = 1996
