@@ -12,6 +12,6 @@ summer_olympics[place] =year
 #puts summer_olympics
 
 summer_olympics.each do |place|
-  puts summer_olympics.upcase
+  puts summer_olympics
   
 end
