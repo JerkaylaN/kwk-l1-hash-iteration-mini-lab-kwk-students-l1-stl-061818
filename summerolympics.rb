@@ -10,3 +10,5 @@ year = 1996
 
 summer_olympics[place] =[year]
 puts summer_olympics
+
+summer_olympics.each 
