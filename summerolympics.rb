@@ -7,4 +7,4 @@ summer_olympics = {
 
 puts summer_olympics
 
-summer_olympics.insert("Atlanta" = 1996)
+summer_olympics.insert("Atlanta")
